@@ -1,0 +1,14 @@
+{   "base"      :{"Number":0,"Tag":0,"Position":[0.50,0.95,"C"]},
+    "machine_675": {"Number":675,"Tag":5,"Position":[11.703,0.973,"D"]},
+    "machine_674": {"Number":674,"Tag":6,"Position":[13.245,0.973,"D"]},
+    "machine_673": {"Number":673,"Tag":7,"Position":[14.643,0.973,"D"]},
+    "machine_672": {"Number":672,"Tag":8,"Position":[16.355,0.973,"D"]},
+    "machine_671": {"Number":671,"Tag":9,"Position":[17.762,0.973,"D"]},
+    "machine_670": {"Number":670,"Tag":10,"Position":[19.462,0.973,"D"]},
+    "machine_669": {"Number":669,"Tag":11,"Position":[21.049,1.000,"D"]},
+    "machine_668": {"Number":668,"Tag":12,"Position":[22.616,1.020,"D"]},
+    "machine_693": {"Number":693,"Tag":13,"Position":[20.728,1.026,"E"]},
+    "machine_694": {"Number":694,"Tag":14,"Position":[19.117,1.015,"E"]},
+    "machine_695": {"Number":695,"Tag":15,"Position":[16.625,0.950,"E"]},
+    "machine_696": {"Number":696,"Tag":1,"Position":[14.992,0.907,"E"]}
+    }
